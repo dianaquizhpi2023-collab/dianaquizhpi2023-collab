@@ -1,4 +1,3 @@
-````markdown
 # Diana Quizhpi Llaguno
 
 ### Coordinadora de Operaciones Técnicas | MBA | Data Analytics | Water & Environmental Services
@@ -346,4 +345,26 @@ for Engineering, Education and Technology*.
 - Comunicación efectiva.
 - Resolución de problemas.
 - Pensamiento analítico.
-- Mej
+- Mejora continua.
+- Organización y planificación.
+- Proactividad y adaptabilidad.
+- Trabajo en equipo.
+- Aprendizaje continuo.
+
+---
+
+## Contacto
+
+Estoy interesada en oportunidades que integren ingeniería, operaciones,
+analítica de datos, gestión de proyectos y sostenibilidad.
+
+**Conectemos:**
+
+- Email: [dquizhpi1@hotmail.com](mailto:dquizhpi1@hotmail.com)
+- LinkedIn: [Diana Quizhpi Llaguno](https://www.linkedin.com/in/diana-quizhpi-llaguno)
+- GitHub: [COMPLETAR_URL_GITHUB]
+- Portafolio: [COMPLETAR_URL_PORTAFOLIO]
+
+---
+
+*Última actualización: octubre de 2026.*
